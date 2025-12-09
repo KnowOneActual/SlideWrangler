@@ -60,6 +60,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 -----
 
-\<div align="center"\>
-\<sub\>Created by Beau Bremer (KnowOneActual)\</sub\>
-\</div\>
+<div align="center"\>
+<sub\>Created by Beau Bremer with love for AV(KnowOneActual)\</sub>
+</div\>
