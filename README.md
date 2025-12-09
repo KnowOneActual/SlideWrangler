@@ -1,5 +1,5 @@
 <div align="center">
-<img src="assets/img/SlideWrangler_logo.webp" alt="An Aweosme Slide Wrangler logo here" width="150">
+<img src="assets/img/SlideWrangler_logo.webp" alt="An Aweosme Slide Wrangler logo here" width="300">
 
 ### SlideWrangler: Automated PowerPoint Slideshow Generator
 </div>
